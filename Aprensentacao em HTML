@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+<title> Conhecimentos de Andrey Guente em linguagem de marcação de texto</title>
+</head>
+<body>
+ <header>
+  <h1>Andrey Lucas de oliveira Ramos Guente</h1>
+  <p>Estudante de Sistemas de informação</p>
+ </header>
+
+<section id="contato">
+  <h2>Contato</h2>
+   <ul>
+    <li>LinkedIn: <a href="https://linkedin.com/in/andreyguente">linkedin.com/in/andreyguente</a></li>
+    <li>Email: andrey@example.com</li>
+    <li>GitHub: <a href="https://github.com/Aluguente">github.com/Aluguente</a></li>
+ </ul>
+  </section>
+</body>
+</html>
